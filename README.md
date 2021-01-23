@@ -1,1 +1,2 @@
-# AstridCarolinaD-azG-mez
+# AstridCarolinaDíazGómez
+Esta es la parte práctica del examen final
